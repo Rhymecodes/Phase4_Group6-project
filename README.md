@@ -61,7 +61,7 @@ This project aims to analyze public sentiment towards Apple and Google products 
 
 - **Improve negative sentiment classification**: Explore techniques like class-weighting, and specialized algorithms for imbalanced datasets.
 - **Consider data source diversity**: Collect data from sources beyond SXSW to obtain a more representative sample of user sentiment.
-- **Granular product analysis**: Analyze sentiment for specific products (e.g., iPhone vs. Pixel 7) for more targeted insights.
+- **Granular product analysis**: Analyze sentiment for specific products (e.g., iPhone vs. Android Phone) for more targeted insights.
 - **Explore advanced techniques**: Investigate deep learning models and advanced text representation methods.
 - **Actionable insights**: Leverage findings to inform marketing strategies, product development, and customer experience initiatives.
 
